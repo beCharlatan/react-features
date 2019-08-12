@@ -3,7 +3,7 @@ import firebase
 
 export const appName = 'adv-react-9fac1'
 export const firebaseCfg = {
-  apiKey: "AIzaSyB_9m6BGWC1DavFwXtXSc3BssMFuZgdlp0",
+  apiKey: "yourApiKey",
   authDomain: `${appName}.firebaseapp.com`,
   databaseURL: `https://${appName}.firebaseio.com`,
   projectId: `${appName}`,
